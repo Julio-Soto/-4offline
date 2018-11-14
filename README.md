@@ -2,7 +2,7 @@
 
 A quick browser game made for the 2018 JS13k gaming competition.
 
-download as zip.
-unzip
-open in chrome.
+##Download as zip.
+##Unzip.
+##Open in chrome.
 
